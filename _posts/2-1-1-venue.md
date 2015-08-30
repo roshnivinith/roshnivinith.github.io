@@ -1,7 +1,7 @@
 ---
 title: The Venue
-bg: turquoise
-color: darkyellow
+bg: maroon
+color: white
 "fa-icon": globe
 published: true
 ---
