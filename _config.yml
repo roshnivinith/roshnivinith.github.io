@@ -35,4 +35,4 @@ colors:
   turquoise: '#0fbfcf'
 
 prose:
-	media: "img"
+	media: 'img'
