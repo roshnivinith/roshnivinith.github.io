@@ -8,4 +8,8 @@ published: true
 
 
 
-![computer history museum]({{site.baseurl}}/img/full-exterior.jpg)
+
+##The Computer History Museum
+"The mission of the Computer History Museum is to preserve and present for posterity the artifacts and stories of the Information Age."
+
+
