@@ -1,15 +1,10 @@
 ---
 title: The Venue
 bg: maroon
-color: white
+color: cream
 "fa-icon": globe
 published: true
 ---
-
-
-
-
-
 
 
 ##The Computer History Museum
