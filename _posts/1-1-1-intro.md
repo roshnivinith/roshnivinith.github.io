@@ -1,6 +1,6 @@
 ---
 title: home
-bg: white
+bg: darkyellow
 color: black
 style: center
 published: true
