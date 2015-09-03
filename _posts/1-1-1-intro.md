@@ -7,5 +7,5 @@ published: true
 ---
 
 
-![saveTheDate-01 (2).jpg]({{site.baseurl}}/img/saveTheDate-01 (2).jpg)
 
+![saveTheDate-01.jpg]({{site.baseurl}}/img/saveTheDate-01.jpg)
