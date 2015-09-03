@@ -7,4 +7,6 @@ published: true
 ---
 
 
-![]({{site.baseurl}}//img/saveTheDate-01.jpg)
+
+![Save the date motherhuggers!]({{site.baseurl}}/_posts/saveTheDate-01.jpg)
+
