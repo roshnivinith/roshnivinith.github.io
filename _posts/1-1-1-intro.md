@@ -8,5 +8,5 @@ published: true
 
 
 
-![Save the date motherhuggers!]({{site.baseurl}}/_posts/saveTheDate-01.jpg)
 
+[![Save the date motherhuggers!]({{site.baseurl}}/img/saveTheDate-01.jpg)]({{site.baseurl}}/img/saveTheDate-01-big.jpg)
