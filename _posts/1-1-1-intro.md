@@ -13,7 +13,8 @@ published: true
 
 
 
-Details about accommodations, etc., coming soon!
+
+## Details about accommodations, etc., coming soon!
 
 
 
