@@ -2,7 +2,7 @@
 published: true
 bg: orange
 color: cream
-"fa-icon": globe
+"fa-icon": bed
 title: Accommodations
 ---
 
