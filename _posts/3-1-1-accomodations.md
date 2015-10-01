@@ -1,7 +1,7 @@
 ---
 published: true
 bg: orange
-color: cream
+color: maroon
 "fa-icon": coffee
 title: Accommodations
 ---
