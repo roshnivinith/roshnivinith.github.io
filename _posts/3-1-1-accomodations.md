@@ -2,7 +2,7 @@
 published: true
 bg: cream
 color: orange
-"fa-icon": "fa-bed"
+"fa-icon": bed
 ---
 
 
