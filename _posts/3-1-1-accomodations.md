@@ -1,6 +1,10 @@
 ---
-published: false
+published: true
+bg: maroon
+color: cream
+"fa-icon": hotel
 ---
+
 
 ## Accomodations
 
