@@ -1,7 +1,7 @@
 ---
 published: true
-bg: cream
-color: orange
+bg: orange
+color: cream
 "fa-icon": bed
 ---
 
