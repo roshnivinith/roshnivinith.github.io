@@ -3,7 +3,7 @@ published: true
 bg: orange
 color: cream
 "fa-icon": globe
-title: The Accommodations
+title: Accommodations
 ---
 
 
