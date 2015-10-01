@@ -1,8 +1,8 @@
 ---
 published: true
-bg: maroon
-color: cream
-"fa-icon": hotel
+bg: cream
+color: maroon
+"fa-icon": "fa-bed"
 ---
 
 
