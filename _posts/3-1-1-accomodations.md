@@ -2,7 +2,7 @@
 published: true
 bg: orange
 color: maroon
-"fa-icon": coffee
+"fa-icon": plane
 title: Accommodations
 ---
 
