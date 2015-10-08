@@ -32,4 +32,4 @@ Or call 877-782-9444 to book over the phone.
 
 
 
-We recommend that visitors rent a car, or be prepared for long and unpredictable bus timings. The Bay Area has its strengths, but public transportation is not one of them.
+We recommend that visitors **rent a car**, or be prepared for long and unpredictable bus timings. The Bay Area has its strengths, but public transportation is not one of them.
