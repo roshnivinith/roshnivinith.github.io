@@ -26,5 +26,6 @@ For out-of-town visitors, we have blocked a set of rooms at [the Hilton Garden I
  
 Or call 877-782-9444 to book over the phone.
 
-
+    
+    
 We recommend that visitors rent a car, or be prepared for long and unpredictable bus timings. The Bay Area has its strengths, but public transportation is not one of them.
