@@ -9,6 +9,7 @@ published: true
 
 
 
+
 [![Save the date motherhuggers!]({{site.baseurl}}/img/saveTheDate.jpg)]({{site.baseurl}}/img/saveTheDate-01-big.jpg)
 
 
@@ -16,7 +17,4 @@ published: true
 
 
 
-## Details about accommodations, etc., coming soon!
-
-
-
+## Things to do + event details coming soon!
