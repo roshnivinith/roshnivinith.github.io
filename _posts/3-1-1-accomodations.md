@@ -1,6 +1,6 @@
 ---
 published: true
-bg: null
+bg: "#ff7415"
 color: maroon
 "fa-icon": plane
 title: Accommodations
