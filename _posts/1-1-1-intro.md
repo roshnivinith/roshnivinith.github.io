@@ -1,10 +1,11 @@
 ---
 title: home
-bg: cream
-color: maroon
+bg: "#fed78a"
+color: "#aa222e"
 style: center
 published: true
 ---
+
 
 
 
