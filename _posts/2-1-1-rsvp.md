@@ -23,4 +23,4 @@ style: center
 
 ## RSVP
 
-Link coming soon!
+[Kindly R.S.V.P. by December 12, 2015](http://goo.gl/forms/4KI00UBcAo) 
