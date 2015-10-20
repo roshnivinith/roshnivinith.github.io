@@ -16,7 +16,7 @@ color: maroon
 
 
 
-## Wedding Timeline
+## Timeline
 
 # Wedding Ceremony & Reception
 Saturday, January 23, 2016, 3:30PM
