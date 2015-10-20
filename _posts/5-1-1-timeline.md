@@ -22,7 +22,7 @@ style: center
 
 
 ## Timeline
-<br>
+
 **Wedding Ceremony & Reception**<br>
 *Friday, January 22, 2016, 7PM*<br>
 Computer History Museum<br>
