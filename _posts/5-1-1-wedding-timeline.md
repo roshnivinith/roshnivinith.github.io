@@ -2,7 +2,7 @@
 published: true
 bg: "#fed78a"
 color: maroon
-"fa-icon": plane
+"fa-icon": "clock-o"
 ---
 
 
