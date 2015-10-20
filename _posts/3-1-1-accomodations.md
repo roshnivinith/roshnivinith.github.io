@@ -1,10 +1,11 @@
 ---
 published: true
-bg: "#fee6b1"
-color: maroon
-"fa-icon": plane
+bg: "#aa222e"
+color: "#fed78a"
+"fa-icon": hotel
 title: Accommodations
 ---
+
 
 
 
