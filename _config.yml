@@ -16,7 +16,7 @@ highlighter: pygments
 
 ### content configuration ###
 title:       "Roshnith"
-keywords:    "marriage, STD, BDSM"
+keywords:    "marriage"
 description: "Wedding details"
 source_link: "https://github.com/roshnivinith/roshnivinith.github.io"
 favicon:     #put a path like: "img/favicon.ico"
