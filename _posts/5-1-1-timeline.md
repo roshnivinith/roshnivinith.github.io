@@ -1,9 +1,10 @@
 ---
 published: true
 bg: "#fed78a"
-color: maroon
+color: "#aa222e"
 "fa-icon": "clock-o"
 ---
+
 
 
 
