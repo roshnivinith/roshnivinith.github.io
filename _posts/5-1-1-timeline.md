@@ -22,14 +22,18 @@ color: maroon
 
 ### Wedding Ceremony & Reception    
 
-<div><center>Saturday, January 23, 2016, 3:30PM    <br>
-Computer History Museum    <br>
-1401 N. Shoreline Blvd.    <br>
-Mountain View, CA 94043    <br>
-    <br>
-    <br></div>
-### Welcome Dinner    
-<div><center>Friday, January 22, 2016, 7PM    <br>
+<center>**Saturday, January 23, 2016, 3:30PM**   
+Computer History Museum    
+1401 N. Shoreline Blvd.    
+Mountain View, CA 94043    
+    
+    
+    
+    
+### Welcome Dinner   
+
+
+<div><center><b>Friday, January 22, 2016, 7PM    </b><br>
 Mitchell Park Community Center    <br>
 3700 Middlefield Road    <br>
 Palo Alto, CA 94303<br>
