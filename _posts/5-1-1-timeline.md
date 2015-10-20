@@ -20,20 +20,17 @@ style: center
 
 
 
+
 ## Timeline
 
-### Wedding Ceremony & Reception    
+### Wedding Ceremony & Reception   
 
-**Saturday, January 23, 2016, 3:30PM**   
-Computer History Museum    
-1401 N. Shoreline Blvd.    
-Mountain View, CA 94043    
-    
-    
-    
-    
+**Friday, January 22, 2016, 7PM**   
+Computer History Museum   
+1401 North Shoreline Boulevard   
+Mountain View, CA 94043
+
 ### Welcome Dinner   
-
 
 **Friday, January 22, 2016, 7PM**   
 Mitchell Park Community Center   
