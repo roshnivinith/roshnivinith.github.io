@@ -1,10 +1,11 @@
 ---
-title: "_posts/3-1-1-venue.md"
+title: Venue
 bg: maroon
 color: cream
 "fa-icon": globe
 published: true
 ---
+
 
 
 
