@@ -1,9 +1,10 @@
 ---
 published: true
 bg: "#aa222e"
-color: white
+color: "#fed78a"
 "fa-icon": envelope
 ---
+
 
 
 
