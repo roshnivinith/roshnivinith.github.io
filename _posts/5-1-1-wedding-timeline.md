@@ -1,6 +1,10 @@
 ---
-published: false
+published: true
+bg: "#ff9f71"
+color: maroon
+"fa-icon": plane
 ---
+
 
 
 
@@ -26,4 +30,3 @@ Friday, January 22, 2016, 7PM
 Mitchell Park Community Center
 3700 Middlefield Road
 Palo Alto, CA 94303
-
