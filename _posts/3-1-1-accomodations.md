@@ -3,8 +3,9 @@ published: true
 bg: "#ff9f71"
 color: maroon
 "fa-icon": plane
-title: Accommodations
+title: "_posts/4-1-1-accommodations.md"
 ---
+
 
 
 
