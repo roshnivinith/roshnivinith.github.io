@@ -1,6 +1,6 @@
 ---
 published: true
-bg: "#ff9f71"
+bg: "#fed78a"
 color: maroon
 "fa-icon": plane
 ---
