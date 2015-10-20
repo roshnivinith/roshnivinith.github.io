@@ -3,6 +3,7 @@ published: true
 bg: "#fed78a"
 color: "#aa222e"
 "fa-icon": "clock-o"
+style: center
 ---
 
 
