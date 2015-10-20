@@ -1,6 +1,10 @@
 ---
 published: false
+bg: "#ff9f71"
+color: maroon
+"fa-icon": plane
 ---
+
 
 
 
