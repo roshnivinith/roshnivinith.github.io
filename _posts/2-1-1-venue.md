@@ -22,7 +22,7 @@ style: center
 
 ##The Computer History Museum
 
-<div><center>"The mission of the <a href="http://www.computerhistory.org/">Computer History Museum</a> is to preserve and present for posterity the artifacts and stories of the Information Age."<br><br><br></div>   
+"The mission of the [Computer History Museum](http://www.computerhistory.org) is to preserve and present for posterity the artifacts and stories of the Information Age."      
 
 If you would like passes to see the museum during your trip to California, [send us an email](mailto:roshnivinith@gmail.com?subject=I-want-tickets-to-the-museum!)!    
 
