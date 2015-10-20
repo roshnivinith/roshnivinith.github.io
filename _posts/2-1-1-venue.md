@@ -1,10 +1,11 @@
 ---
 title: Venue
-bg: maroon
-color: cream
+bg: "#fed78a"
+color: "#aa222e"
 "fa-icon": globe
 published: true
 ---
+
 
 
 
