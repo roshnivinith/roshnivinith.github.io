@@ -31,7 +31,7 @@ Computer History Museum<br>
 Mountain View, CA 94043<br>
 <br><br>    
 **Welcome Dinner**<br>
-*Friday, January 22, 2016, 7PM*<br>
+*Friday, January 22, 2016, 6PM*<br>
 Mitchell Park Community Center<br>
 3700 Middlefield Road<br>
 Palo Alto, CA 94303<br>
