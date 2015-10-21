@@ -21,10 +21,11 @@ style: center
 
 
 
+
 ## Timeline
 
 **Wedding Ceremony & Reception**<br>
-*Friday, January 22, 2016, 7PM*<br>
+*Saturday, January 23, 2016, 3:30PM*<br>
 Computer History Museum<br>
 1401 North Shoreline Boulevard<br>
 Mountain View, CA 94043<br>
