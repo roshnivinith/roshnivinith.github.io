@@ -54,4 +54,4 @@ Of course if you are all the way here, you have to visit San Francisco!  Locals 
 ### For the more adventurous <br>
 - **More Hikes Further North**:  [Point Reyes](http://www.nps.gov/pore/index.htm) and [Muir Woods](http://www.nps.gov/muwo/index.htm).<br>
 - **[Napa](http://www.visitnapavalley.com/)/[Sonoma](http://www.sonomacounty.com/)**:  Beautiful views, amazing wine, and Michelin-starred meals.  (Also further north)<br>
-- **Beaches and Hikes to the South**:  [Santa Cruz](http://beachboardwalk.com/), Monterey, Big Sur.<br>
+- **Beaches and Hikes to the South**:  [Santa Cruz](http://beachboardwalk.com/), [Monterey](http://www.monterey.com/), [Big Sur](http://www.bigsurcalifornia.org/).<br>
