@@ -21,6 +21,7 @@ style: center
 
 
 
+
 ## RSVP
 
-[Kindly R.S.V.P. by December 12, 2015](http://goo.gl/forms/4KI00UBcAo) 
+[Click here to R.S.V.P. by December 12, 2015](http://goo.gl/forms/4KI00UBcAo)
