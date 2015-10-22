@@ -30,5 +30,6 @@ style: center
 
 
 
+
 ## Documentation
-<table style="width:194px;"><tr><td align="center" style="height:194px;background:url(https://www.gstatic.com/pwa/s/v/lighthousefe_20150907.00_p0/transparent_album_background.gif) no-repeat left"><a href="https://picasaweb.google.com/117554275993940847891/Roshnivinith?authuser=0&authkey=Gv1sRgCMvD3aSXiou1-gE&feat=embedwebsite"><img src="https://lh3.googleusercontent.com/-xm9DTTjVSFM/ViiipehL9JE/AAAAAAAAlyQ/GUiYERQXhNQ/s160-c-Ic42/Roshnivinith.jpg" width="160" height="160" style="margin:1px 0 0 4px;"></a></td></tr><tr><td style="text-align:center;font-family:arial,sans-serif;font-size:11px"><a href="https://picasaweb.google.com/117554275993940847891/Roshnivinith?authuser=0&authkey=Gv1sRgCMvD3aSXiou1-gE&feat=embedwebsite" style="color:#4D4D4D;font-weight:bold;text-decoration:none;">Roshnivinith</a></td></tr></table>
+<embed type="application/x-shockwave-flash" src="https://photos.gstatic.com/media/slideshow.swf" width="600" height="400" flashvars="host=picasaweb.google.com&hl=en_US&feat=flashalbum&RGB=0x000000&feed=https%3A%2F%2Fpicasaweb.google.com%2Fdata%2Ffeed%2Fapi%2Fuser%2F117554275993940847891%2Falbumid%2F6208390919780824209%3Falt%3Drss%26kind%3Dphoto%26authkey%3DGv1sRgCMvD3aSXiou1-gE%26hl%3Den_US" pluginspage="http://www.macromedia.com/go/getflashplayer"></embed>
