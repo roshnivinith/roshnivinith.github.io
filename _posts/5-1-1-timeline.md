@@ -38,7 +38,7 @@ Mountain View, CA 94043<br>
 <br>
 **Cocktails & Reception**<br>
 *Immediately following the ceremony*<br>
-<br>
+<br><br>
 **Welcome Dinner**<br>
 *Friday, January 22, 2016, 6PM*<br>
 Mitchell Park Community Center<br>
