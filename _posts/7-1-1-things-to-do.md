@@ -1,7 +1,7 @@
 ---
 published: true
-bg: red
-color: yellow
+bg: yellow
+color: red
 "fa-icon": bicycle
 ---
 
