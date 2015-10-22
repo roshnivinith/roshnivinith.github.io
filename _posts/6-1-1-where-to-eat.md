@@ -44,9 +44,9 @@ For us, this is basically "What to do."
 - **[Rick's Ice Cream](http://www.ricksicecream.com/)**:  We've tried every ice cream shop around, and nothing comes close. Try the industrial chocolate (Vinith) and the lemon chiffon (Roshni). <br>
 - **[Stan's donuts](http://www.yelp.com/biz/stans-donut-shop-santa-clara)** Roshni didn't like donuts till she had FRESH OUT OF THE FRYER donuts from Stan. Seriously, show up at some time before 11am, and ask them for the freshest batch (of any variety). It's even worth waiting for the next batch.
 - **[Dosa SF](http://dosasf.com/)**<br> One of the few Indian places we really like, but it's in the city. Kind of upscale and fusion-y, but they know their south indian food.
-- If your wallet is feeling too heavy for comfort, try **[All Spice](http://www.allspicerestaurant.com/)**. It's an Indian-and-then-some restaraunt with a Michelin Star, and unlike most starred restaraunts the emphasis here is almost entirely on the food. Fancy and creative stuff. 
-- Another option for burning through some cash is the tasting menu at **[Plumed Horse](http://www.plumedhorse.com/)**<br><br>. Amazing dishes and awesome decor.
+- If your wallet is feeling too heavy for comfort, try **[All Spice](http://www.allspicerestaurant.com/)**. It's an Indian-and-then-some restaraunt with a Michelin Star, and unlike most starred restaraunts the emphasis here is more on the food than on the decor. Fancy and creative stuff. 
+- Another option for burning through some cash is the tasting menu at **[Plumed Horse](http://www.plumedhorse.com/)**<br><br>. Amazing dishes and awesome atmosphere. It's a standard Silicon Valley anniversary dinner spot.
 
 ### More Bay Area Must-eats
-- **[In n Out](http://www.in-n-out.com/)**:  The iconic California burger chain.  The grilled cheese is pretty good, too.<br>
-- ****[Philz Coffee](http://www.philzcoffee.com/)**** is all the rage with the entrepreneurial crowd.  Locations scattered around the bay area. <br>
+- **[In n Out](http://www.in-n-out.com/)**:  The iconic California burger chain.  The grilled cheese is pretty good, too. Animal Style fries if you're looking to take a few months off your life expectancy. There are plenty of Five Guys in the area too if you're looking to compare (Vinith's opinion: the 5 guys patties win by a landslide, but the Innout burger is overall a better experience)<br>
+- ****[Philz Coffee](http://www.philzcoffee.com/)**** is all the rage with the entrepreneurial crowd and Vinith's relatives in North Carolina.  Locations scattered around the bay area. <br>
