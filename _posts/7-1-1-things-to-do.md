@@ -36,10 +36,7 @@ color: red
 - **[Stanford Theater](http://www.stanfordtheatre.org/)**:  Watch classic movies (on the cheap!) the way they were meant to be seen at this ornate theater in downtown Palo Alto.<br>
 - **[Stanford Shopping Center](http://www.simon.com/mall/stanford-shopping-center)**<br>
 - **[Fry's](http://www.frys.com/)**:  The world-famous supermarket for tech enthusiasts.  Each location has a different theme! <br>
-- **Museums**:  The [Tech Museum](http://www.thetech.org/) and the [Children's Discovery Museum](https://www.cdm.org/) in downtown San Jose were two of our most-frequented spots as kids, so we highly recommend them for our younger guests!<br><br>
-
-### Outdoor Activities still relatively close to Mountain View <br>
-- **[Half Moon Bay](http://www.visithalfmoonbay.org/)**:  The closest beach.  But be warned:  the Pacific Ocean is always, always freezing!<br>
+- **Museums**:  The [Tech Museum](http://www.thetech.org/) and the [Children's Discovery Museum](https://www.cdm.org/) in downtown San Jose were two of our most-frequented spots as kids, so we highly recommend them for our younger guests!<br>
 - **Hikes**:  Despite the hustle and bustle of Silicon Valley, the bay area has an almost-unlimited number of gorgeous hikes.  With all the hills surrounding us, you're sure to get some amazing views.  [Bay Area Hiker](http://bahiker.com/) has an extensive list.  Some of our favorites include:  [La Honda Creek](http://www.openspace.org/preserves/la-honda-creek) (where we got engaged!), the [Stanford Dish](https://dish.stanford.edu/), [Fremont Older Preserve](http://www.openspace.org/preserves/fremont-older), and [Mission Peak](http://www.ebparks.org/parks/mission)<br><br>
 
 ### San Francisco <br>
@@ -53,6 +50,7 @@ Of course if you are all the way here, you have to visit San Francisco!  Locals 
 - **Museums**:  For the scientists, the [Exploratorium](http://www.exploratorium.edu/) is amazing and the [Legion of Honor](http://legionofhonor.famsf.org/) is an art museum with amazing architecture and views of the water.<br><br>
 
 ### For the more adventurous <br>
+- **[Half Moon Bay](http://www.visithalfmoonbay.org/)**:  The closest beach.  But be warned:  the Pacific Ocean is always, always freezing!<br>
 - **More Hikes Further North**:  [Point Reyes](http://www.nps.gov/pore/index.htm) and [Muir Woods](http://www.nps.gov/muwo/index.htm).<br>
 - **[Napa](http://www.visitnapavalley.com/)/[Sonoma](http://www.sonomacounty.com/)**:  Beautiful views, amazing wine, and Michelin-starred meals.  (Also further north)<br>
 - **Beaches and Hikes to the South**:  [Santa Cruz](http://beachboardwalk.com/), [Monterey](http://www.monterey.com/), [Big Sur](http://www.bigsurcalifornia.org/).<br>
