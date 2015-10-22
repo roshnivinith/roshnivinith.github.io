@@ -34,6 +34,7 @@ The Bay Area is filled with things to do!  Here are a few of our favorites, sort
 - **[Stanford Theater](http://www.stanfordtheatre.org/)**:  Watch classic movies (on the cheap!) the way they were meant to be seen at this ornate theater in downtown Palo Alto.<br>
 - **[Stanford Shopping Center](http://www.simon.com/mall/stanford-shopping-center)**<br>
 - **[Fry's](http://www.frys.com/)**:  The world-famous supermarket for tech enthusiasts.  Each location has a different theme! <br><br>
+- **Museums**:  The Tech Museum and the Children's Discovery Museum in downtown San Jose were
 
 ### Outdoor Activities still relatively close to Mountain View <br>
 - **[Half Moon Bay](http://www.visithalfmoonbay.org/)**:  The closest beach.  But be warned:  the Pacific Ocean is always, always freezing!<br>
@@ -47,9 +48,11 @@ Of course if you are all the way here, you have to visit San Francisco!  Locals 
 - **[Pier 39](http://www.pier39.com/) and [Fisherman's Wharf](http://www.fishermanswharf.org/)**:  More iconic SF.
 - **[Alcatraz](http://www.nps.gov/alca/index.htm)**:  Does this need any explanation??
 - **[Twin Peaks](http://sfrecpark.org/destination/twin-peaks/)**:  Drive to the top of Twin Peaks on a clear day for gorgeous views of the city and the bay.
-- **Museums**:  For the scientists, the [Exploratorium](http://www.exploratorium.edu/) is amazing and the [Legion of Honor](http://legionofhonor.famsf.org/) is an art museum with amazing architecture and views of the bay.
+- **Museums**:  For the scientists, the [Exploratorium](http://www.exploratorium.edu/) is amazing and the [Legion of Honor](http://legionofhonor.famsf.org/) is an art museum with amazing architecture and views of the water.
 
-Napa/sonoma/point reyes
-
+### For the more adventurous <br>
+- **More Hikes**:  Point Reyes and Muir Woods.
+- **Napa/Sonoma**:  For beautiful views, amazing wine, and Michelin-starred meals.
+- **
 museums south: tech museum, children's discovery museum
 santa cruz/monterey/big sur.
