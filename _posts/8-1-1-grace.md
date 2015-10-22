@@ -3,9 +3,10 @@ published: true
 title: GRACE
 bg: yellow
 color: red
-"fa-icon": bicycle
+"fa-icon": paw
 style: center
 ---
+
 
 
 
