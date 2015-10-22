@@ -35,10 +35,10 @@ style: center
 Computer History Museum<br>
 1401 North Shoreline Boulevard<br>
 Mountain View, CA 94043<br>
-<br><br>
+<br>
 **Cocktails & Reception**<br>
 *Immediately following the ceremony*<br>
-<br><br>    
+<br>
 **Welcome Dinner**<br>
 *Friday, January 22, 2016, 6PM*<br>
 Mitchell Park Community Center<br>
