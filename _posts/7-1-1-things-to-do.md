@@ -36,8 +36,8 @@ The Bay Area is filled with things to do!  Here are a few of our favorites, sort
 - **[Fry's](http://www.frys.com/)**:  The world-famous supermarket for tech enthusiasts.  Each location has a different theme! <br>
 
 ### Outdoor Activities still relatively close to Mountain View <br>
-- **Half Moon Bay**:  The closest beach.  But be warned:  the Pacific Ocean is always, always freezing!<br>
-- **Hikes**:  There are la honda preserve, the dish, fremont old preserve, sanborn park, castle rock, mission peak, bahiker <br>
+- **[Half Moon Bay](http://www.visithalfmoonbay.org/)**:  The closest beach.  But be warned:  the Pacific Ocean is always, always freezing!<br>
+- **Hikes**:  Despite the hustle and bustle of Silicon Valley, the bay area has an almost-unlimited number of gorgeous hikes.  With all the hills surrounding us, you're sure to get some amazing views.  [Bay Area Hiker](http://bahiker.com/) has an extensive list.  Some of our favorites include:  [La Honda Creek](http://www.openspace.org/preserves/la-honda-creek) (wher we got engaged!), the [Stanford Dish](https://dish.stanford.edu/), [Fremont Older Preserve](http://www.openspace.org/preserves/fremont-older), and [Mission Peak](http://www.ebparks.org/parks/mission)<br>
 
 city: golden gate bridge (not golden gate park DEFINITELY NOT golden gate park), ghiradelli square, alcatraz, lombard street, twin peaks
 city museums: exploratorium, legion of honor, conservatory of flowers.
