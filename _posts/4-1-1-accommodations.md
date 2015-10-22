@@ -3,7 +3,7 @@ published: true
 bg: "#aa222e"
 color: "#fed78a"
 "fa-icon": home
-title: Hotel
+title: Accommodations
 ---
 
 
@@ -22,7 +22,7 @@ title: Hotel
 
 
 
-## Accommodations
+## Hotel
 
 For out-of-town visitors, we have blocked a set of rooms at [the Hilton Garden Inn in Palo Alto](http://hiltongardeninn3.hilton.com/en/hotels/california/hilton-garden-inn-palo-alto-PAOCRGI/index.html) for the nights of January 22 and 23 (Friday and Saturday).
 
