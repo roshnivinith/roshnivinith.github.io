@@ -25,7 +25,7 @@ color: yellow
 
 ## Things To Do
 
-The Bay Area is filled with things to do!  Here are a few of our favorites, sorted roughly geographically<br>
+The Bay Area is filled with things to do!  Here are a few of our favorites, sorted roughly geographically<br><br>
 
 ### Mountain View Area (close to the museum and the hotel) <br>
 - **[Computer History Museum](http://www.computerhistory.org/)**:  Of course this tops the list!  Email us at roshnivinith@gmail.com for free passes! <br>
@@ -33,12 +33,13 @@ The Bay Area is filled with things to do!  Here are a few of our favorites, sort
 - **Stanford Campus**:  Obviously we are a little biased, but it's beautiful!  Some must-see spots include [Palm Drive and the Stanford Oval](https://goo.gl/maps/61bb2fPvPKF2), [the engineering quad](https://goo.gl/maps/uwP2sfPy46E2) (our second home for many years), and the [Cantor Art Museum](http://museum.stanford.edu/).  A detailed map with parking is [here](http://maps.stanford.edu/sites/all/lbre-shared/files/maps/files/shared/file/maps_records/Parking_And_Circulation_Map.pdf). <br>
 - **[Stanford Theater](http://www.stanfordtheatre.org/)**:  Watch classic movies (on the cheap!) the way they were meant to be seen at this ornate theater in downtown Palo Alto.<br>
 - **[Stanford Shopping Center](http://www.simon.com/mall/stanford-shopping-center)**<br>
-- **[Fry's](http://www.frys.com/)**:  The world-famous supermarket for tech enthusiasts.  Each location has a different theme! <br>
+- **[Fry's](http://www.frys.com/)**:  The world-famous supermarket for tech enthusiasts.  Each location has a different theme! <br><br>
 
 ### Outdoor Activities still relatively close to Mountain View <br>
 - **[Half Moon Bay](http://www.visithalfmoonbay.org/)**:  The closest beach.  But be warned:  the Pacific Ocean is always, always freezing!<br>
-- **Hikes**:  Despite the hustle and bustle of Silicon Valley, the bay area has an almost-unlimited number of gorgeous hikes.  With all the hills surrounding us, you're sure to get some amazing views.  [Bay Area Hiker](http://bahiker.com/) has an extensive list.  Some of our favorites include:  [La Honda Creek](http://www.openspace.org/preserves/la-honda-creek) (wher we got engaged!), the [Stanford Dish](https://dish.stanford.edu/), [Fremont Older Preserve](http://www.openspace.org/preserves/fremont-older), and [Mission Peak](http://www.ebparks.org/parks/mission)<br>
+- **Hikes**:  Despite the hustle and bustle of Silicon Valley, the bay area has an almost-unlimited number of gorgeous hikes.  With all the hills surrounding us, you're sure to get some amazing views.  [Bay Area Hiker](http://bahiker.com/) has an extensive list.  Some of our favorites include:  [La Honda Creek](http://www.openspace.org/preserves/la-honda-creek) (wher we got engaged!), the [Stanford Dish](https://dish.stanford.edu/), [Fremont Older Preserve](http://www.openspace.org/preserves/fremont-older), and [Mission Peak](http://www.ebparks.org/parks/mission)<br><br>
 
+### San Francisco <br>
 city: golden gate bridge (not golden gate park DEFINITELY NOT golden gate park), ghiradelli square, alcatraz, lombard street, twin peaks
 city museums: exploratorium, legion of honor, conservatory of flowers.
 Napa/sonoma/point reyes
