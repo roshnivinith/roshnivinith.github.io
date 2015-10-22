@@ -40,8 +40,15 @@ The Bay Area is filled with things to do!  Here are a few of our favorites, sort
 - **Hikes**:  Despite the hustle and bustle of Silicon Valley, the bay area has an almost-unlimited number of gorgeous hikes.  With all the hills surrounding us, you're sure to get some amazing views.  [Bay Area Hiker](http://bahiker.com/) has an extensive list.  Some of our favorites include:  [La Honda Creek](http://www.openspace.org/preserves/la-honda-creek) (wher we got engaged!), the [Stanford Dish](https://dish.stanford.edu/), [Fremont Older Preserve](http://www.openspace.org/preserves/fremont-older), and [Mission Peak](http://www.ebparks.org/parks/mission)<br><br>
 
 ### San Francisco <br>
-city: golden gate bridge (not golden gate park DEFINITELY NOT golden gate park), ghiradelli square, alcatraz, lombard street, twin peaks
-city museums: exploratorium, legion of honor, conservatory of flowers.
+Of course if you are all the way here, you have to visit San Francisco!  Locals call t "the city" and it is less than an hour's drive from Mountain View.  The [Caltrain](http://www.caltrain.com/) and [BART](https://www.bart.gov/) can help you get up to the city if you want to avoid the traffic and parking. 
+- **Golden Gate Bridge**:  The iconic SF landmark!  Note that it is NOT located in Golden Gate Park!
+- **Lombard Street**:  Walk down that crooked street you see in all the pictures!  This street really captures the essense of those San Francisco hills.
+- **Ghiradelli Square**:  The ice cream sundaes are incredible!
+- **Pier 39 and Fisherman's Wharf**:  More iconic SF.
+- **Alcatraz**:  Does this need any explanation??
+- **Twin Peaks**:  Drive to the top of Twin Peaks on a clear day for gorgeous views of the city and the bay.
+- **Museums**:  For the scientists, the Exploratorium is amazing and the Legion of Honor is an art museum with amazing architecture and views of the bay.
+
 Napa/sonoma/point reyes
 
 museums south: tech museum, children's discovery museum
