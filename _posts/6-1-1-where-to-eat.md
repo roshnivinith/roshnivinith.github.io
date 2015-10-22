@@ -29,6 +29,7 @@ title: eat
 
 
 
+
 ## Where to Eat
 <center>For us, this is basically "What to do."</center>
 
@@ -36,7 +37,7 @@ title: eat
 - **[Los Pericos](http://www.yelp.com/biz/taqueria-los-pericos-campbell)** is the currently reigning World Champion as far as we're concerned.  We've eaten pretty much everywhere Mexican, and this diamond in the rough takes the cake.  We recommend the chicken fajitas, the wet burrito, the chimichanga, and the chilaquiles (red sauce). Their freshly made chips/salsa are our favorites too.<br>
 - **[Los Charros](http://www.yelp.com/biz/taqueria-los-charros-mountain-view)** is a close second.  We recommend the burritos. Grilled chicken > shredded chicken at this place, and Roshni has recently discovered a soft spot for the Charro burrito, which features cactus! <br>
 - **[Sancho's](http://sanchostaqueria.com/)** has Vinith's two favorite burritos of all time:  the chicken mole burrito and the fried fish burrito. Palo Alto denizens worship this place and with good reason. Their ceviche is pretty awesome too.<br>
-- **[El Farolito](http://www.yelp.com/biz/el-farolito-san-francisco-2)** is generally accepted to be the best burrito in the world.  It's all the way in San Francisco, and there's always a line, but we stop by every time we pass by. Super cheap too, which speaks to Roshni. <br><br>
+- **[El Farolito](http://www.yelp.com/biz/el-farolito-san-francisco-2)** is generally accepted to be the best burrito in the world.  It's all the way in San Francisco, and there's always a line, but we stop by every time we pass by.<br><br>
 
 ### Absolute Favorites from Around the World! (excluding Mexican)
 - **[Los Gatos Cafe](http://www.losgatoscafe.com/downtown.html)**:  Best Brunch Ever. Crabcakes, Copenhagen pancakes, and pretty much anything to be honest. You'd have to try pretty hard to screw this up. Cash only and expect a wait, but it's worth it.<br>
