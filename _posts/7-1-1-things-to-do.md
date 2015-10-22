@@ -27,7 +27,8 @@ title: FUN
 
 
 
-## Things To Do
+
+## What To Do
 
 <center>The Bay Area is filled with things to do!  Here are a few of our favorites, sorted roughly geographically<br><br></center>
 
