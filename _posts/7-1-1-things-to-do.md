@@ -41,13 +41,13 @@ The Bay Area is filled with things to do!  Here are a few of our favorites, sort
 
 ### San Francisco <br>
 Of course if you are all the way here, you have to visit San Francisco!  Locals call t "the city" and it is less than an hour's drive from Mountain View.  The [Caltrain](http://www.caltrain.com/) and [BART](https://www.bart.gov/) can help you get up to the city if you want to avoid the traffic and parking. 
-- **Golden Gate Bridge**:  The iconic SF landmark!  Note that it is NOT located in Golden Gate Park!
-- **Lombard Street**:  Walk down that crooked street you see in all the pictures!  This street really captures the essense of those San Francisco hills.
-- **Ghiradelli Square**:  The ice cream sundaes are incredible!
-- **Pier 39 and Fisherman's Wharf**:  More iconic SF.
-- **Alcatraz**:  Does this need any explanation??
-- **Twin Peaks**:  Drive to the top of Twin Peaks on a clear day for gorgeous views of the city and the bay.
-- **Museums**:  For the scientists, the Exploratorium is amazing and the Legion of Honor is an art museum with amazing architecture and views of the bay.
+- **[Golden Gate Bridge](http://www.goldengatebridge.org/)**:  The iconic SF landmark!  Note that it is NOT located in Golden Gate Park!
+- **[Lombard Street](https://goo.gl/maps/LZTFgtZYBDP2)**:  Walk down that crooked street you see in all the pictures!  This street really captures the essense of those San Francisco hills.
+- **[Ghiradelli Square](http://www.ghirardellisq.com/)**:  The ice cream sundaes are incredible!
+- **[Pier 39](http://www.pier39.com/) and [Fisherman's Wharf](http://www.fishermanswharf.org/)**:  More iconic SF.
+- **[Alcatraz](http://www.nps.gov/alca/index.htm)**:  Does this need any explanation??
+- **[Twin Peaks](http://sfrecpark.org/destination/twin-peaks/)**:  Drive to the top of Twin Peaks on a clear day for gorgeous views of the city and the bay.
+- **Museums**:  For the scientists, the [Exploratorium](http://www.exploratorium.edu/) is amazing and the [Legion of Honor](http://legionofhonor.famsf.org/) is an art museum with amazing architecture and views of the bay.
 
 Napa/sonoma/point reyes
 
