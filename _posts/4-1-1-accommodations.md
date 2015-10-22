@@ -3,8 +3,9 @@ published: true
 bg: "#aa222e"
 color: "#fed78a"
 "fa-icon": home
-title: Accommodations
+title: Hotel
 ---
+
 
 
 
