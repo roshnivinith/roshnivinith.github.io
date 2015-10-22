@@ -22,7 +22,9 @@ style: center
 
 
 
+
 ## Timeline
+###WARNING: Bay area traffic is hilariously bad. Leave plenty of time for transportation!
 
 **Wedding Ceremony & Reception**<br>
 *Saturday, January 23, 2016, 3:30PM*<br>
