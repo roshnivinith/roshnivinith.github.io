@@ -31,6 +31,7 @@ title: eat
 
 
 
+
 ## Where to Eat
 <center>For us, this is basically "What to do."</center>
 
@@ -46,7 +47,7 @@ title: eat
 - **[Crepevine](http://www.crepevine.com/)**:  Huge portions, great variety. If you don't know what to eat, just go here.  Locations in Palo Alto and Mountain View.<br>
 - **[Rick's Ice Cream](http://www.ricksicecream.com/)**:  We've tried every ice cream shop around, and nothing comes close. Try the industrial chocolate (Vinith) and the lemon chiffon (Roshni). <br>
 - **[Stan's donuts](http://www.yelp.com/biz/stans-donut-shop-santa-clara)** Roshni didn't like donuts till she had FRESH OUT OF THE FRYER donuts from Stan. Seriously, show up at some time before 11am, and ask them for the freshest batch (of any variety). It's even worth waiting for the next batch.
-- **[Dosa SF](http://dosasf.com/)**<br> One of the few Indian places we really like, but it's in the city. Kind of upscale and fusion-y, but they know their south indian food.
+- **[Dosa SF](http://dosasf.com/)** One of the few Indian places we really like, but it's in the city. Kind of upscale and fusion-y, but they know their south indian food.
 - If your wallet is feeling too heavy for comfort, try **[All Spice](http://www.allspicerestaurant.com/)**. It's an Indian-and-then-some restaraunt with a Michelin Star, and unlike most starred restaraunts the emphasis here is more on the food than on the decor. Fancy and creative stuff. 
 - Another option for burning through some cash is the tasting menu at **[Plumed Horse](http://www.plumedhorse.com/)**.  Amazing dishes and awesome atmosphere.  It's a standard Silicon Valley anniversary dinner spot.<br><br>
 
