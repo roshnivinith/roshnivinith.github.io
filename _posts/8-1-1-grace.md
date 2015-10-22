@@ -4,6 +4,7 @@ title: GRACE
 bg: yellow
 color: red
 "fa-icon": bicycle
+style: center
 ---
 
 
