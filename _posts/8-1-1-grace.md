@@ -1,11 +1,12 @@
 ---
 published: true
 title: GRACE
-bg: red
-color: yellow
+bg: yellow
+color: red
 "fa-icon": paw
 style: center
 ---
+
 
 
 
