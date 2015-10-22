@@ -1,5 +1,5 @@
 ---
-published: true
+published: false
 bg: red
 color: yellow
 "fa-icon": cutlery
@@ -26,9 +26,9 @@ color: yellow
 
 
 
-## Things To Do
+## Where to Eat
 
-<center>The Bay Area is filled with things to do!  Here are a few of our favorites, sorted roughly geographically<br><br></center>
+<center>Some of our regular haunts<br><br></center>
 
 ### Mountain View Area (close to the museum and the hotel) <br>
 - **[Computer History Museum](http://www.computerhistory.org/)**:  Of course this tops the list!  Email us at roshnivinith@gmail.com for free passes! <br>
