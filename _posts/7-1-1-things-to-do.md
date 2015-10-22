@@ -43,7 +43,8 @@ title: FUN
 - **Hikes**:  Despite the hustle and bustle of Silicon Valley, the bay area has an almost-unlimited number of gorgeous hikes.  With all the hills surrounding us, you're sure to get some amazing views.  [Bay Area Hiker](http://bahiker.com/) has an extensive list.  Some of our favorites include:  [La Honda Creek](http://www.openspace.org/preserves/la-honda-creek) (where we got engaged!), the [Stanford Dish](https://dish.stanford.edu/), [Fremont Older Preserve](http://www.openspace.org/preserves/fremont-older), and [Mission Peak](http://www.ebparks.org/parks/mission)<br><br>
 
 ### San Francisco <br>
-Of course if you are all the way here, you have to visit San Francisco!  Locals call t "the city" and it is less than an hour's drive from Mountain View.  The [Caltrain](http://www.caltrain.com/) and [BART](https://www.bart.gov/) can help you get up to the city if you want to avoid the traffic and parking. <br>
+Of course if you are all the way here, you have to visit San Francisco!  Locals call t "the city" and it is less than an hour's drive from Mountain View.  The [Caltrain](http://www.caltrain.com/) and [BART](https://www.bart.gov/) can help you get up to the city if you want to avoid the traffic and parking. <br><br>
+
 - **[Golden Gate Bridge](http://www.goldengatebridge.org/)**:  The iconic SF landmark!  Note that it is NOT located in Golden Gate Park! <br>
 - **[Lombard Street](https://goo.gl/maps/LZTFgtZYBDP2)**:  Walk down that crooked street you see in all the pictures!  This street really captures the essense of those San Francisco hills.<br>
 - **[Ghiradelli Square](http://www.ghirardellisq.com/)**:  The ice cream sundaes are incredible!<br>
