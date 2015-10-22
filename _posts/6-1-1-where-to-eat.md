@@ -29,7 +29,7 @@ color: yellow
 
 
 ## Where to Eat
-For us, this is basically "What to do."
+<center>For us, this is basically "What to do."</center>
 
 ### Absolute Favorites from Around the World!
 - **[Los Pericos](http://www.yelp.com/biz/taqueria-los-pericos-campbell)** is the currently reigning World Champion as far as we're concerned.  We've eaten pretty much everywhere Mexican, and this diamond in the rough takes the cake.  We recommend the chicken fajitas, the wet burrito, the chimichanga, and the chilaquiles (red sauce). Their freshly made chips/salsa are our favorites too.<br>
