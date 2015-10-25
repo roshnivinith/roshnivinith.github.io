@@ -22,6 +22,8 @@ style: center
 
 
 
+
 ## RSVP
 
+Formal invitations will be arriving in your mailbox soon!
 [Click here to R.S.V.P. by December 12, 2015](http://goo.gl/forms/4KI00UBcAo)
