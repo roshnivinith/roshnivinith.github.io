@@ -24,6 +24,7 @@ title: Hotel
 
 
 
+
 ## Hotel
 
 For out-of-town visitors, we have blocked a set of rooms at [the Hilton Garden Inn in Palo Alto](http://hiltongardeninn3.hilton.com/en/hotels/california/hilton-garden-inn-palo-alto-PAOCRGI/index.html) for the nights of January 22 and 23 (Friday and Saturday).
@@ -37,7 +38,7 @@ The block will be reserved until **January 8, 2016**.
 - In the "group code" box, enter **CMW122**   
 - Click the red "Check Room and Rates" button.   
  
-Or call 877-782-9444 to book over the phone.
+<!-- Or call 877-782-9444 to book over the phone. /-->
 
 
 
