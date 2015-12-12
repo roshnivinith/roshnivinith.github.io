@@ -27,6 +27,7 @@ style: center
 
 
 
+
 ## Timeline
 
 ### WARNING: Bay area traffic is hilariously bad. <br> Leave plenty of time for transportation!
@@ -37,7 +38,7 @@ Computer History Museum<br>
 1401 North Shoreline Boulevard<br>
 Mountain View, CA 94043<br>
 <br>
-**Cocktails, Reception, & Dinner**<br>
+**Reception & Dinner**<br>
 *Immediately following the ceremony*<br>
 <br><br>
 **Welcome Dinner**<br>
