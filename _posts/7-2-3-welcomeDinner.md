@@ -1,6 +1,11 @@
 ---
-published: false
+published: true
+bg: red
+color: yellow
+"fa-icon": gift
+style: center
 ---
+
 
 ## A New Post
 
