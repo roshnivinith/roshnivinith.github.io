@@ -2,9 +2,11 @@
 published: true
 bg: red
 color: yellow
-"fa-icon": gift
+"fa-icon": music
 style: center
+title: Welcome Dinner
 ---
+
 
 
 ## A New Post
