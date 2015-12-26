@@ -39,7 +39,7 @@ Computer History Museum<br>
 1401 North Shoreline Boulevard<br>
 Mountain View, CA 94043<br>
 <br>
-**Reception & Dinner**<br>
+**Dinner Reception**<br>
 *Immediately following the ceremony*<br>
 <br><br>
 **Welcome Dinner**<br>
