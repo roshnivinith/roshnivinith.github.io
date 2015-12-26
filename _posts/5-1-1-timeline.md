@@ -28,9 +28,10 @@ style: center
 
 
 
+
 ## Timeline
 
-### WARNING: Bay area traffic is hilariously bad. <br> Leave plenty of time for transportation!
+### WARNING: Bay area traffic is hilariously bad. <br> **It routinely takes 30+ minutes to travel 3 miles **<br> Leave plenty of time for transportation!
 
 **Wedding Ceremony**<br>
 *Saturday, January 23, 2016, 3:30PM*<br>
