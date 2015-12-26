@@ -29,6 +29,7 @@ style: center
 
 
 
+
 ## Timeline
 
 ### WARNING: Bay area traffic is hilariously bad. <br> <br> It routinely takes 30+ minutes to travel 3 miles <br><br> Leave plenty of time for transportation!
@@ -47,3 +48,4 @@ Mountain View, CA 94043<br>
 Mitchell Park Community Center<br>
 3700 Middlefield Road<br>
 Palo Alto, CA 94303<br>
+[More Details](http://roshnivinith.github.io/#welcomedinner)<br>
